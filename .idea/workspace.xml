@@ -4,6 +4,7 @@
     <list default="true" id="4c119f23-44bc-44a3-b06c-87cd1274abac" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/../sa_grades_ms/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sa_grades_ms/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -58,8 +59,8 @@
       <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="340">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -127,6 +128,7 @@
         <option value="$PROJECT_DIR$/../sa_courses_ms/docker-compose.yml" />
         <option value="$PROJECT_DIR$/../sa_academy_api/src/index.js" />
         <option value="$PROJECT_DIR$/../sa_academy_api/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
       </list>
     </option>
   </component>
@@ -278,12 +280,12 @@
       <updated>1520783127522</updated>
       <workItem from="1520783129082" duration="7055000" />
       <workItem from="1521557457887" duration="2705000" />
-      <workItem from="1523403196977" duration="292000" />
+      <workItem from="1523403196977" duration="1098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10052000" />
+    <option name="totallyTimeSpent" value="10858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -563,8 +565,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="340">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
