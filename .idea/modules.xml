@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../sa_academy_api/.idea/sa_academy_api.iml" filepath="$PROJECT_DIR$/../sa_academy_api/.idea/sa_academy_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sa_courses_ms/.idea/sa_courses_ms.iml" filepath="$PROJECT_DIR$/../sa_courses_ms/.idea/sa_courses_ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sa_grades_ms/.idea/sa_grades_ms.iml" filepath="$PROJECT_DIR$/../sa_grades_ms/.idea/sa_grades_ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sa_students_ms.iml" filepath="$PROJECT_DIR$/.idea/sa_students_ms.iml" />
+    </modules>
+  </component>
+</project>
