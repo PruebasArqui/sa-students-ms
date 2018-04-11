@@ -4,7 +4,6 @@
     <list default="true" id="4c119f23-44bc-44a3-b06c-87cd1274abac" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/../sa_grades_ms/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sa_grades_ms/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -51,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -282,12 +281,12 @@
       <workItem from="1520783129082" duration="7055000" />
       <workItem from="1521557457887" duration="2705000" />
       <workItem from="1523403196977" duration="3789000" />
-      <workItem from="1523452164593" duration="554000" />
+      <workItem from="1523452164593" duration="1506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14103000" />
+    <option name="totallyTimeSpent" value="15055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -549,7 +548,7 @@
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
