@@ -10,3 +10,4 @@ RUN bundle install
 ADD . /students-ms
 
 EXPOSE 4000
+

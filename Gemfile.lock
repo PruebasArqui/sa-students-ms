@@ -67,6 +67,7 @@ GEM
     minitest (5.11.3)
     mysql2 (0.4.10)
     mysql2 (0.4.10-x86-mingw32)
+    net-ldap (0.16.1)
     nio4r (2.2.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
@@ -139,6 +140,7 @@ DEPENDENCIES
   execjs
   listen (>= 3.0.5, < 3.2)
   mysql2 (>= 0.3.18, < 0.5)
+  net-ldap
   puma (~> 3.7)
   rails (~> 5.1.5)
   spring
